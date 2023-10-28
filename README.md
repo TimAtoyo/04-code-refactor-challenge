@@ -42,7 +42,4 @@ These changes make the webpage more accessible to users with disabilities, inclu
 
 Simply copy and paste the refactored HTML code into your webpage. You may need to make some minor adjustments to the CSS to ensure that the page is still styled correctly if display width is less than 768px (A more responsive version will be availabe soon).
 
-#### Testing 
-
-Once you have added the refactored code to your webpage, be sure to test it using a variety of assistive technologies, such as screen readers and keyboard navigation. This will help you to identify any remaining accessibility issues.
 

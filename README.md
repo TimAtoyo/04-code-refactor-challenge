@@ -38,8 +38,8 @@ These changes make the webpage more accessible to users with disabilities, inclu
 
 ### Links
 
-* GitHub repository: [link to GitHub repository]
-* Website: [link to website]
+* GitHub repository: [https://github.com/TimAtoyo/04-code-refactor-challenge]
+* Website: [https://timatoyo.github.io/04-code-refactor-challenge/]
 
 #### navbar
 ![Alt text](./assets/images/navbar.png "Optional Title")

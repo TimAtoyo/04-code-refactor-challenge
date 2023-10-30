@@ -35,9 +35,21 @@ These changes make the webpage more accessible to users with disabilities, inclu
 * Users with cognitive impairments can use the relevant icons to quickly understand the content of the page.
 * Developers and maintainers can more easily understand the code and make changes.
 
-### todo
-#### How to use the refactored code
 
-Simply copy and paste the refactored HTML code into your webpage. You may need to make some minor adjustments to the CSS to ensure that the page is still styled correctly if display width is less than 768px (A more responsive version will be availabe soon).
+### Links
+
+* GitHub repository: [link to GitHub repository]
+* Website: [link to website]
+
+#### navbar
+![Alt text](./assets/images/navbar.png "Optional Title")
+
+#### Hero Section
+![Alt text](./assets/images/hero-section.png "Optional Title")
 
 
+#### Main Content
+![Alt text](./assets/images/main-content.png "Optional Title")
+
+#### Main Content
+![Alt text](./assets/images/footer.png "Optional Title")

@@ -1,5 +1,3 @@
-# 04-code-refactor-challenge
-
 ## HTML refactor for accessibility
 
 This refactor improves the accessibility of the webpage by:

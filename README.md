@@ -40,7 +40,9 @@ These changes make the webpage more accessible to users with disabilities, inclu
 * Website: [https://timatoyo.github.io/04-code-refactor-challenge/]
 * Website: [https://timatoyo.netlify.app]
 
-* [![Netlify Status](https://api.netlify.com/api/v1/badges/9006b063-23e1-4856-af11-c3beaecfb7ca/deploy-status)](https://app.netlify.com/sites/timatoyo/deploys)
+
+### Site monitoring
+##### Status Badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/9006b063-23e1-4856-af11-c3beaecfb7ca/deploy-status)](https://app.netlify.com/sites/timatoyo/deploys)
 
 #### navbar
 ![Alt text](./assets/images/navbar.png "Optional Title")
